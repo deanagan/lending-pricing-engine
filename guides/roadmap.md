@@ -198,7 +198,7 @@ C++:
 
 ---
 
-## 🧩 Reason 5 — Resume & credibility impact
+## 🧩 Reason 5 — Business credibility impact
 
 A C# pricing service:
 
